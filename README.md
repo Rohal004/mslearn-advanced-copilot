@@ -1,4 +1,23 @@
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/MicrosoftDocs/mslearn-advanced-copilot)
+Sure! Here's an example of how you can document how to run the project in the README.md file:
+
+## How to Run the Project
+To run this project, follow these steps:
+
+1. Clone the repository to your local machine.
+2. Install the required dependencies by running the following command:
+    ```
+    pip install -r requirements.txt
+    ```
+3. Start the application by running the following command:
+    ```
+    python main.py
+    ```
+4. Open your web browser and navigate to `http://localhost:8000` to access the application.
+
+That's it! You should now be able to run the project locally and interact with the API.
+
+Remember to update the instructions if there are any additional steps or configuration required for running the project.
 
 # Apply advanced GitHub Copilot techniques
 Discover new ways to leverage advanced GitHub Copilot techniques within a Python repository to implement an interactive HTML form and an Application Programming Interface (API) endpoint. 
